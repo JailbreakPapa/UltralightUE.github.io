@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+title: UltralightUE - Documentation
+description: Documentation for the UE Plugin for Ultralight, the HTML/CSS/JS UI Library.
