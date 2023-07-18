@@ -22,8 +22,7 @@ title: UltralightUE - Documentation # the main title
 
 tagline: Documentation # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-Documentation for Unreal Engine Support for Ultralight UI, the Advanced HTML/CSS/JS Library.
+description: Documentation for Unreal Engine Support for Ultralight UI, the Advanced HTML/CSS/JS Library.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://jailbreakpapa.github.io"
@@ -76,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://ultralig.ht/logo_modern2.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
